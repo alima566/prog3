@@ -1,0 +1,12 @@
+Total Words: 4
+Unique Words: 1
+Stop Words: 0
+
+10 Most Frequent
+bcis : 4
+
+10 Least Frequent
+bcis : 4
+
+All
+bcis : 4
